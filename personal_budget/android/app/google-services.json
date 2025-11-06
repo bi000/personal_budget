@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "60279102543",
+    "project_id": "pocketplan-616cd",
+    "storage_bucket": "pocketplan-616cd.firebasestorage.app",
+    "firebase_url": "https://pocketplan-616cd-default-rtdb.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60279102543:android:d738b130b08cb6d1afde3a",
+        "android_client_info": {
+          "package_name": "com.example.personal_budget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI3JiCjkm772bYn9yc_y94nBf2UTMTiw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
